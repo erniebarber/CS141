@@ -2,7 +2,7 @@
 HW 9 is a game; user tries to guess the  computer's
 color ten times.  Uses a switch to convert random int into the
 computers color.  totals number of correct guesses.
-
+ 
 Ernie Barber
 CS141
 Fall 2016 
