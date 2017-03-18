@@ -6,7 +6,7 @@ HW 3 was a star pattern:
  *******
   *****
    ***
-    *
+    * 
 
 Bonus point:  use a for loop to display pattern
 Strategy is to recognize the pattern then code it.
