@@ -1,6 +1,6 @@
 /*
 HW 5 was a customer rewards calculator based on 
-number of book purchases using a swutch.
+number of book purchases using a switch.
 
 Bonus point:  Test for negative user input
 
