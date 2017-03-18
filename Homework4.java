@@ -17,7 +17,7 @@ public class Homework4
    //variables
    int seconds;
    float hours,days,minutes;
-   
+    
    Scanner keyboard = new Scanner(System.in);
    System.out.println("Please enter number of seconds");
    seconds = keyboard.nextInt();
