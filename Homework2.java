@@ -56,7 +56,7 @@ public class Homework2  //Restaurant bill
    + "\n\tTax paid: " + taxString
    + "\n\tTip amount: " + tipString
    + "\n\tTotal bill: " + billString);
-
+ 
    System.exit(0); 
    }
 }
