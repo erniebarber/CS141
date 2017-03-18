@@ -42,4 +42,4 @@ public class Homework5
    
    System.out.println("You earned " + points + " points.");
    }  
-}
+} 
