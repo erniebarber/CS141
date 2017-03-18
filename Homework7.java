@@ -1,6 +1,6 @@
 /*
 HW 7 was a rainfall counter by month for a year;
-calculats total rainfall and avg rainfall by month
+calculates total rainfall and avg rainfall by month
 using two nested for loops.
 
 Rainfall amounts come from user input.
