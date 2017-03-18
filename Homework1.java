@@ -25,7 +25,7 @@ public class Homework1
        
    //Bonus: NumberFormat class has getCurrencyInstance.
    payString = NumberFormat.getCurrencyInstance().format(annualPay);
-           
+            
    //output
    System.out.println("My name is " + name + ", " + "my age is " + age
    + " and I hope to earn " + payString + "!");    
