@@ -61,7 +61,7 @@ public class Homework10
       double totalGallons = totalFeet / 115;
       return totalGallons;
    } 
-   
+    
    public static double getLaborCost(double totalFeet)
    {
       //calculate the labor cost
