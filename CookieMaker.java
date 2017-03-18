@@ -1,7 +1,7 @@
 /*
 This program demos JOptionPane, getting user input
 as a variable and performaing calculations.
-
+ 
 Ernie Barber
 CS141
 Fall 2016
