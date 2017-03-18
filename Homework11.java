@@ -41,7 +41,7 @@ public class Homework11
       double calcDistance = (speed * time) / 60;
       return calcDistance;
    }  
-   
+    
    public static void displayResults(double speed, double time, double calcDistance)
    {
       System.out.println("Distance traveled is: "+calcDistance+" miles");
