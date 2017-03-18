@@ -6,7 +6,7 @@ the Collections class.
 Ernie Barber
 CS141
 Fall 2016 
-*/
+*/ 
 
 import java.util.Scanner;
 import java.util.ArrayList;
