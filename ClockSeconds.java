@@ -1,7 +1,7 @@
 /*
 Printout each second of a 12 hour clock 
 using nested for loops.
-
+ 
 Ernie Barber
 CS141
 Fall 2016
